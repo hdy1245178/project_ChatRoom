@@ -5,7 +5,7 @@
 
 <parent>
         <artifactId>project_ChatRoom</artifactId>
-        <groupId>com.wjr</groupId>
+        <groupId>com.hdy</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
