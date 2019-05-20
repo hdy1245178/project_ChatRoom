@@ -1,0 +1,16 @@
+server:
+  port: 9007
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:9999/eureka
+  instance:
+    prefer-ip-address: true
+
+spring:
+  application:
+    name: project-elasticsearch
+
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.2.129:9300

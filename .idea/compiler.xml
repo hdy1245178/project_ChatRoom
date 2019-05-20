@@ -9,6 +9,7 @@
         <module name="project_article" />
         <module name="project_base" />
         <module name="project_common" />
+        <module name="project_elasticsearch" />
         <module name="project_eureka" />
         <module name="project_friend" />
         <module name="projrct_webmagic" />
