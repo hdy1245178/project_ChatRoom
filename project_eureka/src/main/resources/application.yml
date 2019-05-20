@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+eureka:
+  client:
+    #是否将本服务 注册到 注册中心中
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://127.0.0.1:${server.port}/eureka/

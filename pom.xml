@@ -14,6 +14,7 @@
         <module>project_article</module>
         <module>project_friend</module>
         <module>projrct_webmagic</module>
+        <module>project_eureka</module>
     </modules>
 
     <properties>
