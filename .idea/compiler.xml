@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project_article" />
+        <module name="project_base" />
+        <module name="project_common" />
+        <module name="project_friend" />
+        <module name="projrct_webmagic" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
